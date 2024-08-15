@@ -2,8 +2,8 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/NidhiIyer04/ReStyle.git
-    cd ReStyle
+    git clone https://github.com/Sanika1710/Walmart-Color-Palatte.git
+    cd Walmart-Color-Palatte
     ```
 
 2. Install the required dependencies:
